@@ -1,1 +1,1 @@
-# CSE511 Intro to Artificial Intelligence
+# CSE511: Intro to Artificial Intelligence
